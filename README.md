@@ -40,7 +40,7 @@ bun install
 Create a `.env` file in the root of the project and add your **Turso Database URL**:
 
 ```
-DATABASE_URL=<your_turso_database_url>
+TURSO_CONNECTION_URL=<your_turso_database_url>
 TURSO_AUTH_TOKEN=<your_turso_database_auth_token>
 ```
 
