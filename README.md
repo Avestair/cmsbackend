@@ -1,4 +1,4 @@
-## CMS (Content Manangment Service)
+## CMS (Content Manangment System)
 
 ## 🚀 Project Overview
 
