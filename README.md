@@ -25,7 +25,7 @@ curl -fsSL https://bun.sh/install | bash
 ### Clone the Repository
 
 ```sh
-git clone https://github.com/avestair/cmsbackend.git
+git clone https://github.com/Avestair/cmsbackend.git
 cd cmsbackend
 ```
 
